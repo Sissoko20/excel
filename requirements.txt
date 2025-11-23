@@ -1,0 +1,16 @@
+# Interface web
+streamlit
+
+# Manipulation de données
+pandas
+
+# Export Excel
+openpyxl
+XlsxWriter
+
+# Graphiques et visualisations
+matplotlib
+plotly
+
+# Gestion des dates
+python-dateutil
